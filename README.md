@@ -1,3 +1,4 @@
+> **Note:** This is a fork of [marccass/Retail-Data-Warehousing-Project-Python-SQL](https://github.com/marccass/Retail-Data-Warehousing-Project-Python-SQL) (MIT licence). The original ETL pipeline and SQL analysis were written by marccass. My own additions are listed in the "My additions" section at the end of this README.
 # End-to-End Retail Data Warehouse Pipeline
 
 ## 📌 Project Overview
